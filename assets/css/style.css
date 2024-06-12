@@ -91,6 +91,7 @@ main {
 
 #hero-text {
     background-color:rgb(178, 34, 34, 0.4);
+    border: #3a3a3a solid; 
     font-size: 70%;
     position:absolute;
     bottom: 30px; 
