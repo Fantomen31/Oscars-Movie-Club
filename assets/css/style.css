@@ -117,8 +117,9 @@ main {
     padding: 20px;
 }
 
-.label-div {
-    
+.titel-div {
+    display: flex;
+    justify-content: center;
 }
 
 #-h2 {
@@ -132,9 +133,8 @@ main {
 .movie-link {
     display: flex;
     justify-content: center;
-    text-decoration: none;
     color: goldenrod;
-    padding: 30px 0; 
+    padding: 30px 0 30px; 
     width: 100%;
 
 }
