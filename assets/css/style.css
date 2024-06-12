@@ -32,6 +32,10 @@ li a {
     color: goldenrod; 
 }
 
+.active {
+    border-bottom: 2px solid goldenrod;
+}
+
 /* Header */
 header {
     background-color:firebrick; 
@@ -60,6 +64,8 @@ header a {
     width: 100%;
 }
 
+/* Hover Effect */
+
 
 /* Navigation Bar Dropdown Toggle */
 nav {
@@ -76,7 +82,6 @@ nav {
 main {
     /* Make main element take any surplus space to put down footer*/
     flex: 1 0 auto;
-    margin-top: 40px;
     background-color:gray;
 }
 
