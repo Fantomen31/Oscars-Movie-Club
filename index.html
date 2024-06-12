@@ -63,20 +63,20 @@
             <h2 id="-h2">Movies</h2>
             <div id="movies">
 
-                <label for="dune"><a href="https://www.imdb.com/title/tt15239678/?ref_=nv_sr_srsg_3_tt_8_nm_0_q_dune" target="_blank" aria-label="noopener" class="movie-link">
+                <label for="dune" id="red-box-background1"><a href="https://www.imdb.com/title/tt15239678/?ref_=nv_sr_srsg_3_tt_8_nm_0_q_dune" target="_blank" aria-label="noopener" class="movie-link">
                     DUNE</a>
                 </label>
-                <div id="dune">  </div> 
+                <div id="dune"> </div> 
 
-                <label for="dune"><a href="https://www.imdb.com/title/tt15398776/" target="_blank" aria-label="noopener" class="movie-link">
+                <label for="dune" id="red-box-background2"><a href="https://www.imdb.com/title/tt15398776/" target="_blank" aria-label="noopener" class="movie-link">
                     OPPENHEIMER</a>
                 </label>
                 <div id="oppenheimer"></div> 
 
-                <label for="dune"><a href="https://www.imdb.com/title/tt0056172/" target="_blank" aria-label="noopener" class="movie-link">
+                <label for="lawrence" id="red-box-background3"><a href="https://www.imdb.com/title/tt0056172/" target="_blank" aria-label="noopener" class="movie-link">
                     LAWRENCE OF ARABIA</a>
                 </label>
-                <div id="lawrence"> </div> 
+                <div id="lawrence"></div> 
          </div>
          </section>
          
@@ -91,11 +91,36 @@
 
                 <p>If you want to know more, sign-up to our news letter bellow.</p>
             </div>
+         </section>
 
          <hr>
 
-            <div id="sign-up">
+         <section>
+            <form>
+                <div id="sign-up">
+
                 <h2 id="-h2">Sign-Up</h2>
+                <label for="first-name"> First Name:</label>
+                <input type=text name="first-name" id="fits-name" required> 
+                <br>
+                <label for="last-name"> Last Name:</label>
+                <input type=text name="last-name" id="last-name" required>
+                <br>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                <br>
+                <label for="favorite-house">What's your Favorite House?</label>
+                <br>
+                <label for="atreidies">Atreidies</label>
+                <input type="radio" name="atreidies">
+                <br>
+                <label for="harkonen">Harkonen</label>
+                <input type="radio" name="harkonen">
+                <br>
+                <label for="fremen">Fremen</label>
+                <input type="radio" name="fremen">
+                <br>
+                <button type="submit">Lisan-al-gaib!</button>
             </div>
         </div>
         </section>
