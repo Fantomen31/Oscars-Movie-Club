@@ -27,11 +27,10 @@ h1, h2, h3 {
     font-size: 2rem; 
 }
 
-hr {
-    border-top: 1px solid #3a3a3a;
-    margin:5px 0; 
+li a {
+    text-decoration: none;
+    color: goldenrod; 
 }
-
 
 /* Header */
 header {
@@ -60,6 +59,7 @@ header a {
     padding: 30px 0; 
     width: 100%;
 }
+
 
 /* Navigation Bar Dropdown Toggle */
 nav {
