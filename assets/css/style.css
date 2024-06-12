@@ -274,13 +274,6 @@ main {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-    text-decoration: none;
-}
-
-#social-networks i {
-    font-size: 150%;
-    padding: 5%;
-    color:goldenrod; 
     text-decoration: underline;
 }
 
