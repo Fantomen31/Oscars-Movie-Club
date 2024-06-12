@@ -98,6 +98,8 @@
          <section>
             <form id="sign-up-form" action="/submit" method="post">
 
+                <!--Input Text-->
+
                 <h2 id="-h2">Sign-Up</h2>
                 <label for="first-name"> First Name:</label>
                 <input class="input-text" type=text name="first-name" id="first-name" required> 
@@ -111,21 +113,34 @@
                 <input class="input-text" type="email" id="email" name="email" required>
                 <br>
 
-                <label for="radio-buttons">What's your favorite house ?</label>
+                <label for="radio-buttons" id="radio-button-label">What's your favorite house ?</label>
                 <br>
 
-                <div class="radio-buttons" id="radio-buttons">
+                <!--Radio Buttons-->
+                <div class="radio-buttons" id="radio-buttons"><div>
+
+                <div>
                 <label for="atreidies">Atreidies</label>
                 <input id="atreidies" class="" type="radio" name="atreidies" value="radio">
+                </div>
+
                 <br>
+
+                <div>
                 <label for="harkonen">Harkonen</label>
                 <input id="harkonen" class="" type="radio" name="harkonen" value="radio">
+                </div>
+
                 <br>
+
+                <div>
                 <label for="fremen">Fremen</label>
                 <input id="fremen" class="" type="radio" name="fremen" value="radio">
-                <br>
                 </div>
-                <button type="submit">Lisan-al-gaib!</button>
+
+                <br>
+
+                <button type="submit" id="submit-button">Lisan-al-gaib!</button>
             </div>
         </div>
         </section>

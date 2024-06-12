@@ -239,6 +239,33 @@ main {
     padding: 0 5px;
 }
 
+.radio-buttons { 
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.radio-buttons div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+#radio-button-label {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+}
+
+#submit-button {
+    border-radius: 2px;
+    background-color: goldenrod;
+    border-color: black;
+    color: black;
+    font-size: 100%;
+    margin-top: 20px;
+    padding: 15px 32px;
+}
+
 /* Footer */
 #social-networks {
     background-color:firebrick;
@@ -254,6 +281,7 @@ main {
     font-size: 150%;
     padding: 5%;
     color:goldenrod; 
+    text-decoration: underline;
 }
 
 /* Media quary: large or landscape phones*/
