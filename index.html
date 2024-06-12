@@ -96,30 +96,35 @@
          <hr>
 
          <section>
-            <form>
-                <div id="sign-up">
+            <form id="sign-up-form" action="/submit" method="post">
 
                 <h2 id="-h2">Sign-Up</h2>
                 <label for="first-name"> First Name:</label>
-                <input type=text name="first-name" id="fits-name" required> 
+                <input class="input-text" type=text name="first-name" id="first-name" required> 
                 <br>
+
                 <label for="last-name"> Last Name:</label>
-                <input type=text name="last-name" id="last-name" required>
+                <input class="input-text" type=text name="last-name" id="last-name" required>
                 <br>
+
                 <label for="email">Email:</label>
-                <input type="email" id="email" name="email" required>
+                <input class="input-text" type="email" id="email" name="email" required>
                 <br>
-                <label for="favorite-house">What's your Favorite House?</label>
+
+                <label for="radio-buttons">What's your favorite house ?</label>
                 <br>
+
+                <div class="radio-buttons" id="radio-buttons">
                 <label for="atreidies">Atreidies</label>
-                <input type="radio" name="atreidies">
+                <input id="atreidies" class="" type="radio" name="atreidies" value="radio">
                 <br>
                 <label for="harkonen">Harkonen</label>
-                <input type="radio" name="harkonen">
+                <input id="harkonen" class="" type="radio" name="harkonen" value="radio">
                 <br>
                 <label for="fremen">Fremen</label>
-                <input type="radio" name="fremen">
+                <input id="fremen" class="" type="radio" name="fremen" value="radio">
                 <br>
+                </div>
                 <button type="submit">Lisan-al-gaib!</button>
             </div>
         </div>
