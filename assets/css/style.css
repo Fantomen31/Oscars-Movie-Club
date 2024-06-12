@@ -157,7 +157,7 @@ main {
     background-image: url(../images/dune-image.jpeg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: conatin;
+    background-size: contain;
     overflow: hidden;
     display:flex;
     flex-wrap:wrap;
@@ -173,7 +173,7 @@ main {
     background-image: url(../images/oppenheimer-image.jpeg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: conatin;
+    background-size: contain;
     overflow: hidden;
     display:flex;
     flex-wrap:wrap;
@@ -189,7 +189,7 @@ main {
     background-image: url(../images/lawrence-image.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: conatin;
+    background-size: contain;
     overflow: hidden;
     display:flex;
     flex-wrap:wrap;
