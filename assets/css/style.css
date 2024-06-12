@@ -54,6 +54,15 @@ header a {
     color: inherit;
 }
 
+nav {
+    display: flex;
+    justify-content: center;
+    height: 55px;
+    margin-top: 55px;
+    background-color:firebrick;
+    display: flex;
+}
+
 #menu {
     display: flex;
     list-style-type:none; 
@@ -64,19 +73,6 @@ header a {
     width: 100%;
 }
 
-/* Hover Effect */
-
-
-/* Navigation Bar Dropdown Toggle */
-nav {
-    display: flex;
-    justify-content: center;
-    height: 55px;
-    margin-top: 55px;
-    background-color:firebrick;
-    display: flex;
-}
-
 /* Main Content */
 
 main {
@@ -85,8 +81,14 @@ main {
     background-color:gray;
 }
 
-
 /* Hero Section Styles */
+
+#hero {
+    height: 600px; 
+    width: 100%; 
+    background:url(../images/hero-image.jpg) no-repeat center center/cover; 
+    position: relative;
+}
 
 
 /* Section ID-Meet-Ups*/
