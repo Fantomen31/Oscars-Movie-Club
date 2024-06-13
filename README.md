@@ -41,19 +41,20 @@ The planning of the project is broken into 5 planes,
 
 ## **Strategy Plane** ##
 
-The goal as a creator of my project is to act as an introduction to my faith, Sikhism.
+The purpose as the creator of the project was to create a space and a club for cinophiles that want to watch oscar nominated movies, to gather and get more information, to provide knowledge about oscar nominated movies, and where to find ratings and reviews of those movies.
 
 **Creator stories**
 
 Creator Goals
 
 - As a creator, I want to make sure the project is easy to navigate.
-- As a creator, due to the text-rich nature of the project, to make sure users never feel lost in the text going through the page.
-- As a creator, I want the project to invoke a positive emotional response from users, potentially relating to learning something new or expanding on current knowledge.
+- As a creator, I want create a project that relates to cinophiles, and captures their attention.
+- As a creator, I want sections to be obvious.
+- As a creator, I want the project to invoke a positive emotional response from users, potentially relating to something familiar within the movie industry and field.
 - As a creator, I want to make sure all content on the page is relatable, from images to text and quotes, and avoid elements
 from feeling random or out of place.
 - As a creator I want to avoid users from feeling overwhelmed by the amount of content, 
-finding a way to structure content so users do not feel put off from the moment they land on a page.
+finding a way to structure content so users do not feel put off from the moment they land on a page, but instead are pulled in, and feel intrigued. 
 
 Having established a strategy for what I would like for my users, the most important part was to start thinking from 
 the perspective of the user and how a user would feel going through the project.
