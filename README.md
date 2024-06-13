@@ -272,7 +272,7 @@ Second HTML validation test results. As shown in the image this time their were 
 ![Second HTML validation test results](https://github.com/Fantomen31/Oscars-Movie-Club/blob/main/assets/documentation/html-error_5-9.png)
 
 
-I went on to edit these errors, and commited them, then pushed them to my git repository and edits are found there, link to deployments ; ![Deployments](https://github.com/Fantomen31/Oscars-Movie-Club/deployments) 
+I went on to edit these errors, and commited them, then pushed them to my git repository and edits are found there, link to deployments ; (https://github.com/Fantomen31/Oscars-Movie-Club/deployments) 
 
 After my final mentor session, Harry recomended me to add a submit.html file to direct my users from the sign-up form after submittingwith the Lisan-Al-Gaib button. Before the session it took teh user to a 404 page not found. After the session it now takes you to a simple "thank you" page. 
 
