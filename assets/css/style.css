@@ -199,7 +199,6 @@ main {
     max-height: 300px;
     padding: 20px;
     margin: 20px;
-   
 }
 
 /* About Section*/
@@ -233,8 +232,7 @@ main {
     padding: 30px;
     margin: 30px;
     border: solid firebrick;
-
-    }
+}
 
 .input-text {
     background: transparent;
@@ -285,6 +283,7 @@ main {
     box-shadow: 0 4px 4px #3a3a3a; 
     bottom: 0;
 }
+
 #social-networks {
     background-color:firebrick;
     text-align: center;
@@ -301,6 +300,5 @@ main {
         margin-top: 30px;
         background-color:firebrick;
         display: flex;
-       
     }
 }
