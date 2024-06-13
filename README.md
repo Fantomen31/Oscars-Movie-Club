@@ -183,27 +183,26 @@ I learn best by doing, but it's important to keep in mind and reflect over the p
 
 **Features present across the project,**
 
-- Navbar – Responsive, scrolls down to chosen section. Coloured red with golden text to offset the background and mesh with rest of page design.
-The main logo on the left acts also as a link back to the home page.
-- Footer – Another smaller navigation menu for the user who wishes to navigate to the pages from the bottom, rather than having to scroll up. Social media links always opening in a new tab to the relevant page.
-- Large hero images to draw the user’s attention. All images are bright and colorful and used to add a humane feel across the project. 
-The hero image on the landing page has a darker overlay to help the text stand out better.
-- Dark background for users to feel less tired while reading, also helps images to stand out versus a white background.
-- Contrast of fonts between header and proceeding text. Helps the pages as a whole look less monotonous, 
-and the Dancing Script font really helps capture the user’s attention.
-- Consistent images used throughout the project, again gives the project a humane feel and help to invoke emotions from the user and helps the user take a break from the text and help the paragraphs appear smaller. All images are relevant to the content.
-- Real quotes used as floats or used to put an end to a topic, either highlighted from the paragraph content or used to supplement paragraph content. 
-Also helps to make paragraphs appear smaller.
+- Navbar – Responsive, scrolls down to chosen section. Colored red, with golden text to offset the background and mesh with rest of page design.
+- The text-logo header acts also as a "refres-link" back to the home page.
+- Footer – Another smaller navigation menu for the user who wishes to navigate to our social media links in a new tab, as well as an arrow that takes them back to the top of the page, rather than having to scroll up. 
+- Large hero image to draw the user’s attention, accommpanied by catchy movie quote. A black and white image to represent the feeling of classic film.
+- The text on the hero image has a red translucent background to help the text stand out better, and keep the full view of the image.
+- Grey background for users to feel less tired while reading, also helps sections to stand out versus a white background, as well as working of the black and white hero image.
+- White smoke <hr> to help user understand when they're heading down into a new section of the page. Also adds to the overall UX.
+- Golden-boardered movie images to make them feel like movie posters, they're also clickable taking you to respective IMDB page in a different tab.
+- Contrast of fonts between header and proceeding text, to split the headers from the bulk-text.
+- Used images that mesh well with websited color deisgn, i.e, red, yellow, lightblue/grey.
 
 **Features left to implement**
 
 - Once I have some understanding of JavaScript, I would like to implement it into this project to make it more interactive and less static. 
-- Have the form send an email to me so that I can receive the message sent, now the form acts as a placeholder or to show understanding. 
-- Some form of verification for users who do wish to send a message and click the send message button.
-- Potentially have some of the images across the project be videos or Gifs. Again, it would help the site be less static and stand out more.
-- A Light/Dark mode toggle. While collecting feedback, overall a lot of people preferred the project being dark and less straining on the eyes, 
-especially because there is so much text to read. But I would still love to implement a light mode for anybody who prefers the option.
+- Have all interactive buttons & images increase in size on hover to let the user know it's clickable.
+- Create headers for the movies with informative text of what it's about that is responsive together with the images.
+- Have playable trailers on the images, that play when you hover on them. It would help the site be less static and stand out more.
+- I'd like for the nav bar to be fixed together with the header, to keep the scrolling window consistant.
 - Genuine Web domain and a custom URL. Would help the user experience seeing a more professional looking URL.
+- I'd like two additional pages. One for our screen schedules, with information of what day, time and the location of the screening. And one page dedicated with links to movie lists from Letterboxd.
 
 ---
 
