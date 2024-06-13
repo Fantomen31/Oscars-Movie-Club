@@ -116,6 +116,7 @@ main {
     flex-basis: 200px;
     flex-grow: 1;
     border: 2px solid goldenrod;
+    overflow: inherit;
 }
 
 #-h2 {
@@ -278,7 +279,7 @@ main {
     z-index: 99;
     width: 100%;
     box-shadow: 0 4px 4px #3a3a3a; 
-    margin-top: 91.5vh;
+    bottom: 0;
 }
 #social-networks {
     background-color:firebrick;
@@ -303,18 +304,6 @@ main {
 /* Media querie: tablet and larger*/
 
 @media screen and (min-width: 768px) {
-    /* Header */
-
-    /* Main Content*/
-
-    /* Hero Image */
-
-    /* Reasons Section */
-
-    /* Gallery */
-
-
-    /* Sign-Up */
 
 
 }
