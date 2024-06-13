@@ -208,29 +208,17 @@ I learn best by doing, but it's important to keep in mind and reflect over the p
 
 ## **Technologies Used** ##
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-    - Used as the basic building block for the project and to structure the content.
+- [HTML](https://fantomen31.github.io/Love-Running-Project/)
+    - Used as the basic building block for the project and to structure the content, and inspiration for CSS code.
 
-- [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
-    - Used to style all the web content across the project. 
-
-- [Bootstrap](https://getbootstrap.com/)
-    - Used as the main framework to make the project responsive.
-
-- [jQuery](https://jquery.com/)
-    - Used with Bootstrap to make the navbar responsive.
-
-- [JavaScript](https://www.javascript.com/)
-    - Used for the bootstrap navbar for extending collapse plugin to implement responsive behavior
-
-- [Hover.css](https://ianlunn.github.io/Hover/)
-    - Used on the social meadia icons in the footer when hovered over.
+- [CSS]((https://fantomen31.github.io/Love-Running-Project/)
+    - Used to inspire CSS style.
 
 - [Google Fonts](https://fonts.google.com/)
-    - Used to obtain the fonts linked in the header, fonts used were Roboto and Dancing Script
+    - Used to obtain the fonts linked in the header, fonts used were Aboreto and Aldrich
 
 - [Font Awesome](https://fontawesome.com/)
-    - Used to obtain the social media icons used in the footer.
+    - Used to obtain the social media icons used in the footer, which I later removed, for consistancy reasons. 
 
 - [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
     - Used as a primary method of fixing spacing issues, finding bugs, and testing responsiveness across the project.
@@ -244,14 +232,8 @@ I learn best by doing, but it's important to keep in mind and reflect over the p
 - [Gitpod](https://www.gitpod.io/)
     - Used as the development enviroment.
 
-- [Balsamiq](https://balsamiq.com/)
-    - Used to create the wireframes for the project.
-
-- [AutoPrefixer](https://autoprefixer.github.io/)
-    - Used to parse my CSS and ass vendor prefixes.
-
-- [Grammarly](https://www.grammarly.com/)
-    - Used to fix the thousands of grammar errors across the project.
+- [WC3] (https://validator.w3.org/#validate_by_input)
+    - Used to validate my css & html code
  
 ---
 
