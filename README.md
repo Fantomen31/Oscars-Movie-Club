@@ -159,15 +159,11 @@ Responsive across all devices, to make images scale properly and do not end up p
 
 ## **Skeleton Plane** ##
 
-Below is a link to the initial draft of the wireframes I created for the project and 
-an initial conceptual idea of how everything would be structured and how everything would respond on different devices.
+I found wireframes difficult, and tedious to use. And instead drew a simple and plane mock-up in the so called real life. 
 
-[Project-Sikhism Wireframes](https://github.com/Harry-Leepz/Sikhism-Project/blob/master/documentation/project-wireframes.pdf)
 
-I also typed up all my pages beforehand to help me to proofread the content and fix the grammatical error. 
-It also allowed me to plan my text, structure my paragraphs, and condense text under subheadings.
 
-There are some differences from the wireframes to the project,
+There are some differences from the mock-up to the project;
 
 - Home Page has a Jumbotron in the center, instead of the top left corner.
 - All pages have a hero image that I felt stood and gave a positive emotional response, 
