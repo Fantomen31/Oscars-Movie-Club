@@ -32,6 +32,10 @@ li a {
     color: goldenrod; 
 }
 
+#home {
+    scroll-behavior: smooth;
+}
+
 /* Header */
 header {
     background-color:firebrick; 
@@ -270,6 +274,16 @@ main {
 }
 
 /* Footer */
+
+#footer {
+    background-color:firebrick; 
+    padding:0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 4px 4px #3a3a3a; 
+    margin-top: 91.5vh;
+}
 #social-networks {
     background-color:firebrick;
     text-align: center;

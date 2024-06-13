@@ -22,9 +22,9 @@
 </head>
 <body>
      <!-- Header -->
-     <header>
+     <header id="home">
         <a href="index.html">
-           <h1 id="logo">Oscars Movie Club</h1>
+           <h1>Oscars Movie Club</h1>
        </a>
 
         </header>
@@ -36,13 +36,13 @@
                 <a href="index.html">Home</a>
             </li>
             <li>
-                <a href="#movies-h2">Movies</a>
+                <a href="#movies">Movies</a>
             </li>
             <li>
                 <a href="#about">About</a>
             </li>
             <li>
-                <a href="#sign-up">Sign-Up</a>
+                <a href="#signup">Sign-Up</a>
             </li>
         </ul>
       </nav>
@@ -88,8 +88,8 @@
 
         <hr>
         <section>
-            <div id="about">
-            <h2 id="-h2">About</h2>
+            <div id="about"><h2 id="-h2">About</h2>
+
                 <p>Oscars Movie Club, is ment for Cenpohiles that want to dedicate their time to learn, 
                     analyze and discuss movies. We meet every Friday evening and watch Oscar Nominated movies.</p>
 
@@ -103,8 +103,8 @@
             <form id="sign-up-form" action="/submit" method="post">
 
                 <!--Input Text-->
+                <h2 id="-h2">Sign-Up </h2>
 
-                <h2 id="-h2">Sign-Up</h2>
                 <label for="first-name"> First Name:</label>
                 <input class="input-text" type=text name="first-name" id="first-name" required> 
                 <br>
@@ -153,7 +153,7 @@
 
      <!-- Footer -->
 
-     <footer>
+     <footer id="footer">
         <ul id="social-networks">
             <li>
                 <a href="https://www.facebook.com/" target="_blank" rel="noopener"
@@ -167,9 +167,15 @@
                 <a href="https://www.youtube.com/" target="_blank" rel="noopener"
                 aria-label="Visit our Youtube page, opens in new tab.">Youtube</a>
             </li>
+            <li>
+                <a href="#home"><i class="fa-solid fa-arrow-up" aria-label="To top of screen"></i>
+                </a>
+            </li>
 
         </ul>
      </footer>
+     <!-- Java Font Awesome Kit--> 
+     <script src="https://kit.fontawesome.com/4d304df36f.js" crossorigin="anonymous"></script>
     
 </body>
 </html>
