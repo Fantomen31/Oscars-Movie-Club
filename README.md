@@ -25,9 +25,10 @@ Thank you for viewing my project and I sincerely hope you enjoy the project as m
 
 ## **UX – User Experience Design** ##
 
-A large part of inspiration behind the planning for this project came from Jason James Garretts’s, “The Elements of User-Experience”. 
+A large part of inspiration behind the planning for this project came from the "Oscars", relating to colors, gold for the statuett, and red for the famous, "red carpet.
+
 By keeping the user in mind throughout the design and development of the project, it would be easier to make the user experience a 
-positive one. For the user to have a positive emotional response throughout the project. 
+positive one. For the user to have a positive familiar feel for "cinema" throughout the project.
 
 The planning of the project is broken into 5 planes, 
 - The Strategy Plane
