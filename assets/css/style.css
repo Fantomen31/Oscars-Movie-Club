@@ -32,10 +32,6 @@ li a {
     color: goldenrod; 
 }
 
-#home {
-    scroll-behavior: smooth;
-}
-
 /* Header */
 header {
     background-color:firebrick; 
@@ -109,7 +105,7 @@ main {
 #movies {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 #movies div {
