@@ -239,28 +239,17 @@ I learn best by doing, but it's important to keep in mind and reflect over the p
 
 ## **Testing** ##
 
-**Testing User stories from User Experience Design (UX) Section**
-
-[User Story Testing](https://github.com/Harry-Leepz/Sikhism-Project/blob/master/documentation/user-story-testing.pdf)
-
-**Further Testing**
-
-- The project was tested on the following browsers with success, Google Chrome, Microsoft Edge, Mozilla Firefox, and Opera.
-- Project was manually tested on an iPhone 11 and a Samsung A70 with success.
+- The project was tested on the following browsers with success, Google Chrome, Safari & Mozilla Firefox.
+- Project was manually tested on an iPhone 11.
 - Google Chrome Developer tools were used throughout the project to help me to test the responsiveness across devices.
 - Google Chrome Developer tools used to emulate devices,
     - Apple iPad
     - Apple iPad Pro
     - Microsoft Surface Duo
-    - Motorola G4
-    - Samsung Galaxy S5
-    - Google Pixel 2/2 XL
-    - Apple iPhone 5/SE
-    - Apple iPhone 6/7/8
     - Apple iPhone 6/7/8 Plus
     - Apple iPhone X
 
-I used the W3C Markup Validator and W3C CSS Validator  to validate every page of the project to ensure
+I used the W3C Markup Validator and W3C CSS Validator to validate every page of the project to ensure
 there were no syntax errors in the project.
 
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
@@ -273,6 +262,8 @@ there were no syntax errors in the project.
     - [Contact Page Results](https://github.com/Harry-Leepz/Sikhism-Project/blob/master/documentation/contactpage-validator.png)
 
 **Known Bugs and Fixs**
+
+
 
 - Page titles were not updated in the head element of the HTML files.
     - Updated the head element for each file, so that the page title in tabs reflects the current page.
