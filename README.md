@@ -84,31 +84,32 @@ I chose some of my favorite movies to add in the movies section, but also popula
 
 ## **Scope Plane** ##
 
-Based on the Strategy goals I can establish that trying to include everything I want, and what the users would like from the research was not going to be feasible from my initial release. The easiest way to approach this would be to start 
-with a minimum viable product, that would answer the question that came up the most. 
+Based on the Strategy goals I can establish that trying to include everything I want, and what the users would like from the inspiration of other websites, I realised it wasn't going to be feasible from my initial release. The easiest way to approach this would be to start 
+with a minimum viable product, that would answer the question that came up the most, and represent the spine of my vision.
 
-From there a phased approach would be most ideal, which allowed me to manage the workload and give me some room to build on any feedback I receive.
+Because of my tight deadline i had to survive and adapt based on the feeback from my mentor Harry, myself and some close friends. I didn't have time to re-approach the project from a retro-active phasing strucutre. 
 
-My plan for a phased release would be,
+My plan for a phased release would be, if I had the time,
 
 **Phase 1** -
 
-- A home page with a small introduction to the project and faith.
-- A origins page.
-- A philosophy/core foundations page.
-- A contact us page. 
+- A home page with a small introduction to the project.
+- A Movies page.
+- An about page.
+- A sign-up & contact page. 
 
 **Phase 2** -
 
-- An expansion on Sikh Gurus.
-- A page explaining “Langar”.
-- A about me page
+- An expansion on the movies page, increasing the amount of movies significantly. 
+- A page with movie list links from "letterboxd"
+- An about us page.
 
 **Phase 3** -
 
-- Interactive elements (I lack JavaScript knowledge)
+- Interactive elements, ie, better looking buttons, more buttons, and more interactive links. (I lack JavaScript knowledge)
 - Web domain with a customer URL
-- Light mode/Dark Mode toggle
+- Built in videos and trailers.
+- A news section for the newest Oscar related news.
 
 Having a phased approach to the project allows users to feel surprised when a new version is deployed with extra elements and allows me time to collect feedback and better understand flaws with my initial design or development and to help me grow. 
 Also allows me to implement new skills I have learned and build upon the initial design.
