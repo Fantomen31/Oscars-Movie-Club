@@ -316,73 +316,26 @@ You can fork a GitHub Repository to make a copy of the original repository to vi
 
 **Code**
 
-- [Stackoverflow](https://stackoverflow.com/)
-    - Helping find to solution to the margin issue appearing on Chrome Dev tools.
+- [Love-Running-Project](https://fantomen31.github.io/Love-Running-Project/)
+- Used as inspiration and template for a lot of the CSS code.
 
-- [Matt Rudge, Code Institute](https://codeinstitute.net/)
-    - Navbar style.
-    - Dark Overlay on the Home Page hero image.
-    - Social Media icons layout in the footer.
-    - Hover effect on the social media icons.
-    - Form on the Contact Us page.
-
-- [Drew Ryan](https://www.youtube.com/channel/UCtXGz0MBuqZUC8rmGddc07Q)
-    - Idea for the text shadow was taken from his video, to help the jumbotron text stand out on the hero image on the Home Page.
-    [Link to video](https://www.youtube.com/watch?v=V_lAhqLXT9A&t=835s&ab_channel=DrewRyan)
-
-- [Bootstrap](https://getbootstrap.com/)
-    - Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+- [ChatGpt](https://chatgpt.com/auth/login?sso=&oai-dm=1)
+- To help understand what problems I was facing when I couldn't understand it throught dev-tools.
 
 **Content**
 
--  [Color Tool](https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=9E9E9E&secondary.color=616161)
-    - Used to help find and select colors used throughout the project.
+- [Love-Running-Project](https://fantomen31.github.io/Love-Running-Project/)
+- Used as inspiration and template for a lot of the CSS code.
 
-- [Onelittleangel.com](https://www.onelittleangel.com/wisdom/quotes/saint.asp?mc=1682)
-    - Used to find quotes used on the Philosophy page.
-
-- [Learnreligions.com](https://www.learnreligions.com/the-life-of-guru-nanak-2993568)
-    - Main source of information for the Origins Page.
-
-- [Beliefnet.com](https://www.beliefnet.com/faiths/sikhism/10-things-i-wish-everyone-knew-about-sikhism.aspx)
-    - Used for content inspiration throughout the project.
-
-- [Sikhiwiki.org](https://www.sikhiwiki.org/index.php/Guru_Nanak)
-    - Used for content on the Origins page.
-
-- [Wikipedia](https://en.wikipedia.org/wiki/Guru_Nanak)
-    - Used for content inspiration throughout the project.
-
-- [Gursikhs-hukam.blogspot.com](https://gursikhs-hukam.blogspot.com/2009/03/wand-chhakna-wand-ke-chhakna.html)
-    - Used for content on the Philosophy page.
-
-- [Allaboutsikhs.com](https://www.allaboutsikhs.com/sikh-way-of-life/sikh-principles)
-    - Used for content on the Philosophy page.
-
-Although none of the content used through the project was directly copied, a large part of the inspiration and vocabulary 
-came from the websites listed above. 
-This project would not be possible without help from the websites.
+- [IMDB](https://www.imdb.com/)
+    - Used for links to movie pages.
 
 **Media**    
 
-- [Pixabay](https://pixabay.com/images/search/sikh/)
-    - Used for images throughout the project.
-
-- [Unsplash](https://unsplash.com/s/photos/sikh)
-    - Used for images throughout the project.
+- [Google](https://www.google.com/)
+- used to find all media for the website. Downlaoded media and added to assets folder "images".
 
 **Acknowledgements**
 
-- [Polygon](https://www.polygon.com/reviews/2020/9/24/21453043/hades-review-switch-windows-early-access-supergiant-roguelite-impressions)
-    - A large inspiration behind the project on how effective the hero images on top of the pages can be 
-    and how to structure the text around floats and sub headings.
-
-- [PCGamer](https://www.pcgamer.com/uk/amnesia-rebirth-review/)
-    - How to structure the text across multiple devices and remain responsive was taken from how PCGamer structure their articles.
-
-I would like to personally thank everybody who has gone through this very very long readme and joined me on my journey to become a programmer.
-I sincerely hope you enjoyed the project and have found it useful and knowledgeable. A large part of this project was done on my own, but I also had the help of my mentor
-Aaron Sinnott, who gave me ideas on how to structure the large amounts of text. Apologies for any issues with the language and vocabulary used during this project,
-English is not my first language but I can assure you I am proficient at the language.
-
-I hope whoever you are and wherever you are, you are staying safe during this pandemic and you are well. May Waheguru bless us all. :)
+I would like to personally thank Harry for working with me swiftly and re-aligning me towards the important areas to showcase.
+I sincerely hope you enjoyed the project and have found it useful and knowledgeable. 
