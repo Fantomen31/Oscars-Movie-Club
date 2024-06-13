@@ -161,26 +161,21 @@ Responsive across all devices, to make images scale properly and do not end up p
 
 I found wireframes difficult, and tedious to use. And instead drew a simple and plane mock-up in the so called real life. 
 
-
+![Skeleton Mock-up drawing](https://github.com/Fantomen31/Oscars-Movie-Club/blob/main/assets/documentation/skeleton%20plane%20mock%20up.JPG))
 
 There are some differences from the mock-up to the project;
 
-- Home Page has a Jumbotron in the center, instead of the top left corner.
-- All pages have a hero image that I felt stood and gave a positive emotional response, 
-but different from the home page on take up less of the view height space so the user understands to scroll down.
-- Aligned all images on the Philosophy page to the right, instead of right-left-right. 
-It made the page a lot more aesthetically pleasing.
-- The main image in the Origin page now is centered larger. 
-- The use of floats to help the paragraphs appear smaller, 
-to give the impression progression was made faster on the page.
-- A citations section at the bottom of the page because a lot of the text content was far better phrased on other sites.
-- A send message button was added to the contact us page, which I somehow forgot to add in my initial draft.
-- There is also a wireframe for the Langar page in the tablet wireframes that will also not be included in my phase 1 release.
+- All pages got melded into one page, and become sections to navigate to rather than pages to jump to.
+- Home Page got added wit ha hero image and a quote, to entice engagement.
+- Header & Footer got fixed to top & bottom.
+- About text got aligned to center of page rather then split up into boxes for better design and use of screen realestate.
+  
+- All smaller details were added in as I was building.
 
-There were some other smaller changes that I decided to go ahead with I just felt made the project more aesthetically pleasing.
+TLDR;
+I didn't know how to utalise the skeleton plane as well as possible. This was a great learning xperience, and next time I'll spend more time to create a stronger and better mock-up to make it building easier and more compartamentalized. I did however expect my skill in ock-ups to go hand-in-hand with my coding knowledge. I.E, now I better know what I can implement, thus I better know how to create a proper skeleton mock-up for next project.
 
-I feel as though my growth as I have learned Front-Development has led to many of the changes listed above. Also, I considered feedback and my personal opinion on how the pages looked. Looking back, I definitely could have spent more time planning my approach, but this project 
-was a huge learning experience for me, and I can use this as a platform to spend more time and effort designing future projects.
+I learn best by doing, but it's important to keep in mind and reflect over the proccess to se what I can develop untill next time. 
 
 ---
 
@@ -188,7 +183,7 @@ was a huge learning experience for me, and I can use this as a platform to spend
 
 **Features present across the project,**
 
-- Navbar – Responsive, toggles to a hamburger menu at a width of 576pixels. Coloured grey for inactive pages and colored white for the currently active page. 
+- Navbar – Responsive, scrolls down to chosen section. Coloured red with golden text to offset the background and mesh with rest of page design.
 The main logo on the left acts also as a link back to the home page.
 - Footer – Another smaller navigation menu for the user who wishes to navigate to the pages from the bottom, rather than having to scroll up. Social media links always opening in a new tab to the relevant page.
 - Large hero images to draw the user’s attention. All images are bright and colorful and used to add a humane feel across the project. 
