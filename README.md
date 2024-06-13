@@ -63,37 +63,22 @@ the perspective of the user and how a user would feel going through the project.
 
 First-time visitor goals,
 
-- As a first-time visitor, I want to easily understand the purpose of the project from the moment I get to the landing page.
+- As a first-time visitor, I want to easily feel familiar and know the what the page is about at the landing page.
 - As a first-time visitor, I want to easily be able to navigate, can I get back to the home page quickly, 
 when I reach the bottom of a page is there some way to move forward without scrolling back up.
-- As a first-time visitor, I want everything I am reading to be reinforced or supported in some way, quotes, stories, or images.
+- As a first-time visitor, I want everything I see and read to evoke a feeling of the cinema. 
 - As a first-time visitor, I want to feel as though I am progressing through the page and not feel overwhelmed or lost.
-- As a first-time visitor, I want the project to not become too exhausting to look at.
-- As a first-time visitor, I want to be able to pick up from where I left off, can the structure of a page be in a way where 
-I can simply just carry on if I took a break?
 
 Returning visitor goals:
 
 - As a returning visitor, I want to be able to get in contact with the creator or creators in some way, social links, or contact page.
-- As a returning visitor, I want to be able to cite the information or find out where the source of the information came from.
+- As a returning visitor, I want to be able to get intouch and become a member of the movie club. 
 
 From my user stories, I am better able to come up with a conceptual idea of what the project needs in terms of features, which features have more priority.
 
-During my initial planning for the project, I was planning to make the project on Sikhs as a people of faith. 
-So, I decided to some research, friends, acquaintances, and work colleagues to understand better which content was more important. 
-I was naturally biased being Sikh and everything to me was more important, but I needed to understand the perspective of a user. 
+During my initial planning for the project, I was planning to make the project bigger, with an are for reviews and comments of movies. As well as clearer and more buttons that would take me to external pages of where to watch the movies as well. This turned out to become to much with the alloted deadline. 
 
-While doing my research I quickly noticed when asking, what would you like to know about Sikhs, a correlation on the feedback being received. 
-I was assuming everyone knew about Sikhism without introducing Sikhism.
-
-From the feedback, I was also able to gain an understanding of what I should include in my project from the first release. 
-Common questions being asked while doing research was,
-
-1.  How did Sikhism originate, who started Sikhism?
-2.  Who is a Guru and what is a Gurdwara?
-3.  What are the pillars of the faith?
-4.  Why is Sikhism important to me?
-5.  What is “Langar”?
+I chose some of my favorite movies to add in the movies section, but also popular ones to better capture and maintain user attention, as well as making it relatable. 
 
 ---
 
