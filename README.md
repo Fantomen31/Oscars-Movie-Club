@@ -263,34 +263,20 @@ there were no syntax errors in the project.
 
 **Known Bugs and Fixs**
 
+First HTML validation test results. As shown in the image there are a couple of ERRORS, but nothing to complex, mostly typos or wrongly used elements.
+
+![First HTML validation test results](https://github.com/Fantomen31/Oscars-Movie-Club/blob/main/assets/documentation/html-error_1-4.png)
 
 
-- Page titles were not updated in the head element of the HTML files.
-    - Updated the head element for each file, so that the page title in tabs reflects the current page.
-- Social Links in footer were not updated.
-    - Removed the placeholdertext and replaced with correct link to social media link and checked it opens in a new tab.
-- On very wide screen resolutions (21:9 Aspect ratio, 3440x1440), the description for the image was diplaying to the right of the image and not undeneath. 
-[Image of issue](https://github.com/Harry-Leepz/Sikhism-Project/blob/master/documentation/source.text.fix.png)
-    - Added `display: block` to the image CSS to have the image desciption correctly sit below the image.
-- On Chrome Dev Tools, on mobile and tablet views, extra horizontal space was appearing the right, making the page appear wider.
-    - Added `overflow-x: hidden` to the html and body in CSS, credit for this fix goes to Stackoverflow/questions when I looked up a fix for the issue.
-- On 320px width devices, the jumbotron was appearing larger than the screen width. 
-[Image of issue](https://github.com/Harry-Leepz/Sikhism-Project/blob/master/documentation/320px-fix.png)
-    - Added media query `@media screen and (max-width: 320px)` and reduced the font sizes as well as adding margin space to the top.
-- W3C Markup Validator flagged up errors across all pages because of the way I was using comments to structure my code, using more than 
-two hypens in a comment would flag the error.
-[Image of issue](https://github.com/Harry-Leepz/Sikhism-Project/blob/master/documentation/markup-validator-error.png)
-    - Instead of `<!-------`, I instead just used `<!-- ====`. It still allowed me to structure my code so that was easier to read but 
-    fixed the error too. 
-    Credit for this fix goes to the Stackoverflow/questions when I looked up a fix.
-- Jumbotron appeared to large when the Home page wage was viewed on mobile devices in portrait mode.
-[Image of issue](https://github.com/Harry-Leepz/Sikhism-Project/blob/master/documentation/iphone5-large-text.png)
-    - Adjusted the media query `@media screen and (max-width: 320px)` fix to `@media screen and (max-width: 640px)` to fix the issue.
-    - After further testing with Chrome Dev tools I believe `@media screen and (max-width: 752px)` 
-    to be a better all round fix, applies the previous fix to the Iphone 6/7/8 models when 
-    viewed in portrait mode. 
+Second HTML validation test results. As shown in the image this time their were only two, and of minor complexity. 
+![Second HTML validation test results](https://github.com/Fantomen31/Oscars-Movie-Club/blob/main/assets/documentation/html-error_5-9.png)
 
----
+
+I went on to edit these errors, and commited them, then pushed them to my git repository and edits are found there, link to deployments ; ![Deployments](https://github.com/Fantomen31/Oscars-Movie-Club/deployments) 
+
+After my final mentor session, Harry recomended me to add a submit.html file to direct my users from the sign-up form after submittingwith the Lisan-Al-Gaib button. Before the session it took teh user to a 404 page not found. After the session it now takes you to a simple "thank you" page. 
+
+
 
 ## **Deployment** ##
 
