@@ -118,41 +118,40 @@ Also allows me to implement new skills I have learned and build upon the initial
 
 ## **Structure Plane** ##
 
-Knowing from the beginning that the project was going to be very text-rich, the biggest hurdle was going to be how to keep users interested and to not be put off by a lot of text. 
-Sources for inspiration to overcome this came from my mentor Aaron Sinnott and websites that are very text rich with articles and stories. 
+Knowing from the beginning that the project would need links to movies, and the amount of them was the biggest hurdle. How to keep users interested and to not be put off by bad link dsign. 
 
-I visit Polygon and PC Gamer a lot and enjoy reading articles, so looking at how they structured their pages. 
-Using Figures/Images and Blockquotes floated to ether side gave the impression there was less to read while highlighting something important. 
-Subheadings would also allow for text to be structured better while allowing me to add extra white space to give the reader breathing room.
+Sources for inspiration to overcome this came from my mentor Harry Leepz, who told me to keep it simple and tight. 
 
 **Colours** -
 
-- Black
 - Grey
-- Golden Yellow
-- White and off White
+- Red
+- Gold
 
-Black background to start with to make it more relaxing for users to read and make it less exhausting on their eyes. 
-Also allowed for images to stand out and draw attention.
+Grey background to start with to make it more relaxing for users to read and make it less exhausting on their eyes, also blends in well with the hero image on the landing page.
+
+This would also make the Golden text pop more. 
+
+I decided to split the sections wit ha white smokey line, to make it feel as you're actually progressing down a page and not stay on one long page.
+
+The red color for the header, nav bar and footer was a good color combination with the grey, and gold. But also fit well with the majorit of movie images I decided to use. 
+
+It also gave me the option to incorporate translucent red boxes to make text and the signup form more obvious.
 
 **Typography** –
 
-- Roboto
-- Dancing Script 
+- Aboreto
+- Aldrich
 
-I used Dancing Script to offer a contrast to the Roboto font, it also allowed the project to not look monotonous. 
-Roboto is quite easy to read and is a more modern popular font.
+I used fonts that were most similar to the Oscars titel itself. Giving off a level of recognition and familiarty but also making it look award-like. Aldrich was my choice for the bulk text, and was directly chosen because of it's likeness to Aboreto, yet keeping it less elegant, and better fitting for bulk text in my opinion. 
 
-Consistency with the Navigation Bar and Footer elements because they will be recurring elements. 
-Smaller navigation in the footer, for the user, when they reach the bottom of the page, and an easy to navigate Navigation Bar at the top.
+I decided to make a simple nav bar, that stretched bellow the header, but that dissapeared as you scroll down in order to make use of viewer space. 
 
-Social Media Links in the footer, with a simple hover effect the allow the user to see interaction but keep the colors subtle.
+Consistency with the Navigation Bar and Footer elements because they will be recurring elements, I wanted to footer fixed, in order to enable an easy way to navigate back to the top of the page.
 
-Consistent imagery throughout the project, not only to help condense the text but to also give the user something to view and feel as though they can take a breath. 
-Images should be relatable to the content on the page and not feel forced or out of place.
+A back to top arrow for the user, when they reach the bottom of the page, and an easy to navigate Navigation Bar at the top.
 
-The text will be consistent on all pages with a centered title, small centered summary, and finally the content of the page aligned to the left. 
-So that the user feels familiar with the site as the progress down a page.
+Simple Social Media Links in the footer.
 
 Responsive across all devices, to make images scale properly and do not end up pixelated, text is readable on all devices. 
 
