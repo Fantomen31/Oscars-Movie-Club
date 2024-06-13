@@ -19,7 +19,7 @@ and my focus on user experience design.
 
 Thank you for viewing my project and I sincerely hope you enjoy the project as much as I did designing and developing it.
 
-[View live project here](https://harry-leepz.github.io/Sikhism-Project/index.html)
+[View live project here] (https://fantomen31.github.io/Oscars-Movie-Club/)
 
 ---
 
