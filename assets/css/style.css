@@ -8,6 +8,10 @@
 }
 
 /* General Styles */
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     min-height: 100vh;
     display: flex;
@@ -299,21 +303,4 @@ main {
         display: flex;
        
     }
-
-}
-/* Media querie: tablet and larger*/
-
-@media screen and (min-width: 768px) {
-
-
-}
-
-
-@media screen and (min-width: 1200px) {
-    /* Benefits Image+ text style on 1200px and larger */
-
-}
-
-@media screen and (min-width: 992px) {
-    /* */
 }
