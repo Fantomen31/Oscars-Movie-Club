@@ -1,6 +1,6 @@
 # **Oscars Movie Club** - A cinema club project
 
-![Responsive view of Oscars Movie Club on all devices] () "Sikhism-Project")
+![Responsive view of Oscars Movie Club on all devices](https://github.com/Fantomen31/Oscars-Movie-Club/blob/main/assets/documentation/device-responsiveness.png"Oscars-Movie-Club")
 
 ## **Introduction** ##
 
